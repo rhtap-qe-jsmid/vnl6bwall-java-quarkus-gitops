@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vnl6bwall-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/vnl6bwall-java-quarkus
